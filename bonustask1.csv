@@ -1,0 +1,41 @@
+id,name,source,prescription_required,retail_price,discounted_price,manufacturer,quantity,packaging_form,salts,dosage,cluster_id
+source_6-280452,zerodol spas strip of 10 tablets,source_6,True,159.1,140.01,ipca laboratories,10 tablets in strip,strip,drotaverine800mg aceclofenac1000mg,800 1000,1
+source_2-39675,dolomec dp 25mg injection,source_2,True,14.4,11.81,mcw healthcare,,,diclofenac 25mg,25,2
+source_6-76042,dolovis sp 10032515 mg tablet 10,source_6,True,108.0,108.0,inovis healthcare pvt,10 tablets in strip,strip,aceclofenac1000mg serratiopeptidase150mg paracetamol acetaminophen3250mg,1000 150 3250,1
+source_1-65185,dolomine 650 mg tablet 10s,source_1,False,18.0,15.84,cassel research laboratories pvt,10,strip tablet,paracetamol650mg,650,3
+source_6-75799,dolodart ds suspension 60ml,source_6,False,44.35,44.35,juggat pharma,60ml suspension in bottle,bottle,paracetamol acetaminophen2500mg5ml,2500 5,2
+source_7-90395,dolocrat 100 mg500 mg tablet,source_7,True,33.0,32.0,syncom formulations india,100 tablets in 1 strip,,aceclofenac 100mg paracetamol 500mg,100 500,3
+source_7-90457,dolokind aqua 75mg injection,source_7,True,36.17,25.38,mankind pharma,10 ml in 1 ampoule,,diclofenac 75mg,75,1
+source_1-65089,dolo oral drops 15 ml,source_1,False,30.0,26.4,micro labs,15,bottle oral drops,paracetamol100mg,100,2
+source_1-65212,dolonex dt 20 mg tablet 15s,source_1,True,237.0,208.6,pfizer,15,strip tablet,piroxicam20mg,20,3
+source_1-65145,doloforce injection 4 x 2 ml,source_1,True,141.5,124.5,mankind pharma pvt,4 x 2,box injection,piroxicam40mg,40,1
+source_7-206614,nimulid strong 1 spray,source_7,True,150.0,145.0,mankind pharma,420 gm in 1 bottle,,nimesulide 1 wv,1,2
+source_1-65298,dolour 100mg tablet,source_1,True,39.0,34.32,saviour health care,10,strip tablet,aceclofenac100mg,100,3
+source_7-90620,dolospan p fizz tablet,source_7,True,59.63,52.05,emcure pharmaceuticals,,,tramadol 375mg paracetamol 325mg,375 325,1
+source_6-75955,dolopolo 650mg strip of 10 tablets,source_6,False,22.84,20.1,elfin drug pvt,10 tablets in strip,strip,paracetamol acetaminophen6500mg,6500,2
+source_7-334748,zerodol p tablet,source_7,True,73.0,63.0,ipca laboratories,100 tablets in 1 strip,,aceclofenac 100mg paracetamol 325mg,100 325,3
+source_6-75988,dolosaid p strip of 10 tablets,source_6,True,59.0,59.0,univentis medicare,10 tablets in strip,strip,aceclofenac1000mg paracetamol acetaminophen3250mg,1000 3250,1
+source_7-263613,risdone ls tablet,source_7,True,85.0,72.9,intas pharmaceuticals,100 tablets in 1 strip,,risperidone 2mg trihexyphenidyl 2mg,2 2,2
+source_2-39592,doloact 50mg tablet dt,source_2,True,11.26,9.23,ochoa laboratories,,,diclofenac 50mg,50,3
+source_1-144847,nimulid md tablet 15s,source_1,True,108.0,95.0,mankind pharma pvt,15,strip tablet,nimesulide100mg,100,1
+source_6-176551,nimulid ef tablet 2,source_6,True,5.9,5.9,mankind pharmaceuticals,2 tablets in strip,strip,nimesulide,0,2
+source_2-39812,dolowin tc 4 tablet,source_2,True,162.0,132.84,micro labs,,,aceclofenac 100mgthiocolchicoside 4mg,100 4,3
+source_6-75862,dolokoff syrup 60ml,source_6,True,40.88,35.97,micro labs,60ml syrup in bottle,bottle,chlorpheniramine codeine,0,1
+source_3-5752,oflomac suspension 30ml,source_3,True,39.6,33.66,macleods pharmaceuticals pvt,30,bottle suspension,ofloxacin 50mg 5ml,50 5,2
+source_6-75826,dolofresh strip of 10 tablets,source_6,True,48.0,40.8,smart laboratories pvt,10 tablets in strip,strip,aceclofenac1000mg paracetamol acetaminophen3250mg,1000 3250,3
+source_6-75802,dolodol injection,source_6,True,59.63,52.05,ethix healthcare,2ml injection,injection,tramadol,0,1
+source_7-238066,piconine 5mg oral suspension,source_7,True,69.0,66.9,medsky healthcare,1000 ml in 1 bottle,,sodium picosulfate 5mg5ml,5 5,2
+source_6-72392,diazepam 5 mg tablet 1000,source_6,True,15.91,14.0,wings pharmaceuticals pvt,1000 tablets in bottle,bottle,unknown,0,3
+source_3-6189,paracip 125mg syp 60ml,source_3,False,24.86,23.62,cipla pharmaceutical company,60,bottle,paracetamolacetaminophen 125mg 5 ml,125 5,1
+source_2-39659,dolojust 50mg325mg tablet,source_2,True,19.48,15.97,mankind pharma,,,diclofenac 50mgparacetamolacetaminophen 325mg,50 325,2
+source_2-85072,nimulid mr 100mg2mg tablet,source_2,True,119.1,97.66,panacea biotec,,,nimesulide 100mgtizanidine 2mg,100 2,3
+source_5-47170,zerodol 100mg tablet 10s,source_5,True,59.3,48.63,ipca laboratories,10 tablets in a strip,strip,aceclofenac 100mg,100,1
+source_6-50726,cetrizine 10mg knoll strip of 10 tablets,source_6,True,21.0,14.7,knoll healthcare pvt,10 tablets in strip,strip,cetirizine100mg,100,2
+source_2-39591,doloact 25mg injection,source_2,True,6.66,5.46,ochoa laboratories,,,diclofenac 25mg,25,3
+source_6-280455,zerodol th max 4mg strip of 10 tablets,source_6,True,190.05,167.24,ipca laboratories,10 tablets in strip,strip,aceclofenac1000mg thiocolchicoside40mg paracetamol acetaminophen3250mg,1000 40 3250,1
+source_2-108804,risdoneplus tablet,source_2,True,59.5,48.79,intas pharmaceuticals,,,risperidone 3mgtrihexyphenidylbenzhexol 2mg,3 2,2
+source_2-39654,dologaba 300mg tablet,source_2,True,114.0,93.48,arwana pharmaceuticals,,,gabapentin 300mg,300,3
+source_7-59130,cetrizine 5mg syrup,source_7,True,62.0,60.1,knoll pharmaceuticals,600 ml in 1 bottle,,cetirizine 5mg,5,1
+source_1-65305,dolowin 100 mg tablet 10s,source_1,True,60.0,52.8,micro labs,10,strip tablet,aceclofenac100mg,100,2
+source_1-65283,dolospark tablet 10s,source_1,True,49.0,43.12,spark medicare pvt,10,strip tablet,aceclofenac100mg paracetamol325mg,100 325,3
+source_2-39588,dolo pain relief spray,source_2,False,143.65,136.47,micro labs,,,unknown,0,1
